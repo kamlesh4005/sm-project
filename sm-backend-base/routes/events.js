@@ -32,8 +32,7 @@ router.get('/events', async (req, res) => {
     apiHandler(req, res, eventsController.getAllEvents(req.query))
 })
 
-router.post('/events', async (req, res) => {
-    console.log("Came here ....")
+router.post('/proxy', async (req, res) => {
     apiHandler(req, res, eventsController.executeProxy(req.body))
 })
 
