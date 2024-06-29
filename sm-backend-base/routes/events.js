@@ -14,18 +14,27 @@ router.get('/free-slots', routerUtil.validateFreeSlotAPI(), async (req, res) => 
     apiHandler(req, res, eventsController.getFreeSlots(startDate, endDate, timezone))
 })
 
-router.post('/events', routerUtil.validateEventsAPI(), async (req, res) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-        return res.status(400).json({ errors: errors.array() });
-    }
-    const { title, startTime, timezone } = req.body;
-    apiHandler(req, res, eventsController.createEvent({ title, startTime, timezone }))
+router.post('/events',/* routerUtil.validateEventsAPI(),*/ async (req, res) => {
+    // const errors = validationResult(req);
+    // if (!errors.isEmpty()) {
+    //     return res.status(400).json({ errors: errors.array() });
+    // }
+    // const { title, startTime, timezone } = req.body;
+    // apiHandler(req, res, eventsController.createEvent({ title, startTime, timezone }))
+    console.log("Came here ....")
+    apiHandler(req, res, eventsController.executeProxy(req.body))
 })
+
+
 
 router.get('/events', async (req, res) => {
     // consider timezone here
     apiHandler(req, res, eventsController.getAllEvents(req.query))
+})
+
+router.post('/events', async (req, res) => {
+    console.log("Came here ....")
+    apiHandler(req, res, eventsController.executeProxy(req.body))
 })
 
 module.exports = router;

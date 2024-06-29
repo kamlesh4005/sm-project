@@ -1,6 +1,6 @@
 {
     "server": {
-        "port": 3005
+        "port": 3007
     },
     "application": {
         "startHours": "10:00",
