@@ -1,0 +1,81 @@
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Master 61595 is running
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 12:34:17 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 12:34:18 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:34:20 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 12:56:33 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 12:56:33 [INFO] [RequestID: N/A]: Master 62015 is running
+2024-06-29 12:56:34 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:56:34 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 12:56:34 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 12:56:34 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 12:56:34 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:56:36 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Master 62082 is running
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 12:58:19 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:58:21 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Master 62145 is running
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 12:59:13 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 12:59:15 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:00:01 [INFO] [RequestID: N/A]: payload data {}
+2024-06-29 13:00:02 [INFO] [RequestID: N/A]: %s: %s redisTime 236.788ms
+2024-06-29 13:00:02 [INFO] [RequestID: N/A]: %s: %s redisTimeNew 236.647ms
+2024-06-29 13:00:02 [INFO] [RequestID: N/A]: %s: %s dbTime 264.727ms
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Master 62189 is running
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 13:00:36 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:00:38 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:00:39 [INFO] [RequestID: N/A]: payload data {}
+2024-06-29 13:00:39 [INFO] [RequestID: N/A]: %s: %s redisTime 237.196ms
+2024-06-29 13:00:40 [INFO] [RequestID: N/A]: %s: %s redisTimeNew 232.489ms
+2024-06-29 13:00:40 [INFO] [RequestID: N/A]: %s: %s dbTime 239.384ms
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Master 62216 is running
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 13:01:02 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:01:04 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Master 62284 is running
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 13:01:57 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 13:01:58 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:02:00 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Master 62344 is running
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Server is running on port: 3005
+2024-06-29 13:03:02 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:03:04 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Number of CPUs is 8
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Master 62442 is running
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Loading middlewares
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Connecting to DB
+2024-06-29 13:05:44 [INFO] [RequestID: N/A]: Server is running on port: 3007
+2024-06-29 13:05:45 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-29 13:05:47 [INFO] [RequestID: N/A]: Connected to MongoDB
+2024-06-29 13:05:54 [INFO] [RequestID: N/A]: Came here ....

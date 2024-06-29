@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/Users/kamleshsharma/Documents/Generic/sm-project/logs/.6d39082bc8eb5406f5c63c6fd8e8c54bdcceff20-audit.json",
+    "files": [
+        {
+            "date": 1719487758093,
+            "name": "/Users/kamleshsharma/Documents/Generic/sm-project/logs/error-2024-06-27.log",
+            "hash": "f190b32f276865d668a394de4bd03cf03f8c0a11be9c7fc792fd2ac50b2d20bd"
+        },
+        {
+            "date": 1719644657642,
+            "name": "/Users/kamleshsharma/Documents/Generic/sm-project/logs/error-2024-06-29.log",
+            "hash": "3ef992101ee7e3cdc9e0525292b4e79bb6c21a066369fcf6e8f7e42c31d2afe6"
+        }
+    ],
+    "hashType": "sha256"
+}

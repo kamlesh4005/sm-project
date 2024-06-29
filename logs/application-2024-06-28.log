@@ -1,0 +1,4 @@
+2024-06-28 11:35:23 [INFO] [RequestID: N/A]: Redis error: Error: read ETIMEDOUT
+2024-06-28 11:35:24 [INFO] [RequestID: N/A]: Connected to Redis
+2024-06-28 11:35:38 [INFO] [RequestID: N/A]: Redis error: Error: read ETIMEDOUT
+2024-06-28 11:35:38 [INFO] [RequestID: N/A]: Connected to Redis
